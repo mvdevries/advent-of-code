@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using Solutions.Days;
 using Xunit;
 
-namespace Solutions.XTests.Days;
+namespace Solutions.Tests.Days;
 
 public class UnitTest01: IAsyncLifetime
 {
